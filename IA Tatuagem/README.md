@@ -1,0 +1,1 @@
+Um dia eu decidi que queria fazer uma tatuagem, mas tatuagem é algo para sempre e precisa ser bem selecionada se você se preocupa tanto com as aparencias quanto eu. Eu não entendo muito de estilos de tatuagem, por isso eu treinei um modelo para prever qual seria o melhor tipo de tatuador para minhas ideias de tattoo. 
